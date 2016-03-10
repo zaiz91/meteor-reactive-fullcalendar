@@ -3,7 +3,7 @@ Based on http://fullcalendar.io/ v2.6.1 -  JQuery plugin packaged for Meteor 1.0
 ### Instalation ###
 
 ```bash
-    meteor add gquemart:meteor-reactive-fullcalendar
+    meteor add zaiz91:meteor-reactive-fullcalendar
 ```
 
 ### Usage ###
